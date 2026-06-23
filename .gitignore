@@ -1,0 +1,21 @@
+# Environment & secrets
+.env
+*.env
+docker-compose.override.yml
+
+# n8n data (contains credentials)
+n8n_data/
+
+# Postgres data
+postgres_data/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
