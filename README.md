@@ -4,7 +4,6 @@
 
 A working end-to-end MVP built on a **₹0 stack** (local LLM, self-hosted automation, free messaging) — designed so the production upgrade is a config change, not a rebuild.
 
-> 🎥 **Demo video:** [ADD LOOM/YOUTUBE LINK]
 
 ---
 
